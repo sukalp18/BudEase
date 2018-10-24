@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BudEase</string>
+    <string-array name="countries">
+        <item>India</item>
+        <item>Pakistan</item>
+    </string-array>
+</resources>
