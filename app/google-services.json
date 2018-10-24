@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "270781987769",
+    "firebase_url": "https://budease-7ba4a.firebaseio.com",
+    "project_id": "budease-7ba4a",
+    "storage_bucket": "budease-7ba4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270781987769:android:3dcd592406ef013b",
+        "android_client_info": {
+          "package_name": "com.budease"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270781987769-4ui63133tarqas4le0trn7kun3kah6se.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.budease",
+            "certificate_hash": "3e73f6d5b19996633b37d67dd04d37f741520eac"
+          }
+        },
+        {
+          "client_id": "270781987769-1van1ms5agngeukaafogt7c1k4d15j4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyPCB2yR2t01AERK1EpOjKIYE_RoMYpcg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270781987769-9ih63dl2vqisfdk1k32eggvkapk40tvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
