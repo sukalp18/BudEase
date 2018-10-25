@@ -6,29 +6,8 @@
     android:layout_height="match_parent"
     tools:context=".activities.LoginActivity">
 
-   <LinearLayout
-       android:padding="16dp"
-       android:layout_centerInParent="true"
+   <android.support.v4.view.ViewPager
        android:layout_width="match_parent"
-       android:layout_height="wrap_content"
-       android:orientation="vertical">
-       <Spinner
-           android:layout_width="match_parent"
-           android:layout_height="wrap_content"
-           android:entries="@array/countries" />
-       <EditText
-           android:layout_marginTop="10dp"
-           android:layout_marginBottom="10dp"
-           android:layout_width="match_parent"
-           android:layout_height="wrap_content"
-           android:inputType="number"
-           android:maxLength="10"/>
-       <Button
-           android:layout_width="match_parent"
-           android:layout_height="wrap_content"
-           android:text="Send Verification Code"/>
-
-   </LinearLayout>
-
+       android:layout_height="match_parent"/>
 
 </RelativeLayout>
