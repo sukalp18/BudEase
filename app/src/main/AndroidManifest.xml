@@ -17,7 +17,6 @@
             </intent-filter>
         </activity>
         <activity android:name=".activities.VerifyPassword" />
-        <activity android:name=".activities.VerifyOtp"></activity>
     </application>
 
 </manifest>

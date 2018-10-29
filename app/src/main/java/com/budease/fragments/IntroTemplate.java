@@ -2,7 +2,7 @@ package com.budease.fragments;
 
 
 import android.os.Bundle;
-import android.app.Fragment;
+import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -20,7 +20,7 @@ public class IntroTemplate extends Fragment {
     private int introPic;
     private ImageView fragBg;
 
-    public static IntroTemplate getInstance(int introPic){
+    public static android.support.v4.app.Fragment getInstance(int introPic){
         IntroTemplate introTemplate = new IntroTemplate();
         Bundle args = new Bundle();
         args.putInt("introPic",introPic);
